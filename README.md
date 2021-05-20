@@ -4,11 +4,11 @@
 
 ### Acknowledgments
 
-###### Most of the data in this repo come from "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University", link to the repo is https://github.com/CSSEGISandData/COVID-19 
+###### Most of the data in this repo is taken from "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University", link to the repo is https://github.com/CSSEGISandData/COVID-19 
 
-###### Covid-19 data of France come from "Ministère des Solidarités et de la Santé" (Ministry of Health in France).
+###### Covid-19 data of France are taken from "Ministère des Solidarités et de la Santé" (Ministry of Health in France).
 
-###### Population data come from United Nations. Dataset of the population is added to this repo (processing of population dataset is not shown here). The link to the page is https://population.un.org/wpp/Download/Standard/Population/
+###### Population data are taken from United Nations. Dataset of the population is added to this repo (processing of population dataset is not shown here). The link to the page is https://population.un.org/wpp/Download/Standard/Population/
 
 ### Contents
 
